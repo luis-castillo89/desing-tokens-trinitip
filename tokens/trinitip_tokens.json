@@ -69,6 +69,62 @@
           "type": "color"
         }
       }
+    },
+    "Typography Color": {
+      "--tnp-color-text-primary": {
+        "value": "#001A2B",
+        "type": "color"
+      },
+      "--tnp-color-text-secondary": {
+        "value": "#707584",
+        "type": "color"
+      },
+      "--tnp-color-text-placeholder": {
+        "value": "#696969",
+        "type": "color"
+      },
+      "--tnp-color-text-disable": {
+        "value": "#9A9A9B",
+        "type": "color"
+      }
+    },
+    "Neutral Color": {
+      "--tnp-color-neutral-900": {
+        "value": "#131831",
+        "type": "color"
+      },
+      "--tnp-color-neutral-300": {
+        "value": "#ECECEC",
+        "type": "color"
+      },
+      "--tnp-color-neutral-200": {
+        "value": "#F2F2F2",
+        "type": "color"
+      },
+      "--tnp-color-neutral-100": {
+        "value": "#F7F9FA",
+        "type": "color"
+      },
+      "--tnp-color-neutral-0": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    },
+    "Icons Color": {
+      " --tnp-color-icon-default": {
+        "value": "#9AAAC1",
+        "type": "color"
+      },
+      "--tnp-color-icon-disable": {
+        "value": "#C0C5CA",
+        "type": "color"
+      }
+    },
+    "line Colors": {
+      "--tnp-color-border": {
+        "value": "#E7E8EA",
+        "type": "color"
+      }
     }
   }
 }
