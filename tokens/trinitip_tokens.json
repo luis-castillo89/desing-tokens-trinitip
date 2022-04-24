@@ -2,127 +2,127 @@
   "Trinitip.Global Color": {
     "Primary Colors": {
       "Dark": {
-        "--tnp-color-primary-dark-base": {
+        "primary-dark-base": {
           "value": "#005767",
           "type": "color",
           "description": "color primary dar base"
         },
-        "--tnp-color-primary-dark-hover": {
+        "primary-dark-hover": {
           "value": "#004652",
           "type": "color"
         },
-        "--tnp-color-primary-dark-active": {
+        "primary-dark-active": {
           "value": "#00343E",
           "type": "color"
         }
       },
       "default": {
-        "--tnp-color-primary-normal-base": {
+        "primary-normal-base": {
           "value": "#007489",
           "type": "color",
           "description": "primary color default"
         },
-        "--tnp-color-primary-normal-hover": {
+        "primary-normal-hover": {
           "value": "#00687B",
           "type": "color"
         },
-        "--tnp-color-primary-normal-active": {
+        "primary-normal-active": {
           "value": "#005D6E",
           "type": "color"
         }
       },
       "light": {
-        "--tnp-color-primary-light-base": {
+        "primary-light-base": {
           "value": "#E6F1F3",
           "type": "color"
         },
-        "--tnp-color-primary-light-hover": {
+        "primary-light-hover": {
           "value": "#D9EAED",
           "type": "color"
         },
-        "--tnp-color-primary-light-active": {
+        "primary-light-active": {
           "value": "#B0D4DA",
           "type": "color"
         }
       }
     },
     "Semantic Color": {
-      "--tnp-color-success": {
+      "color-success": {
         "value": "#00BF58",
         "type": "color"
       },
-      "--tnp-color-warning": {
+      "color-warning": {
         "value": "#FFDA64",
         "type": "color"
       },
-      "--tnp-color-danger": {
+      "color-danger": {
         "value": "#FF3F3F",
         "type": "color"
       },
       "link": {
-        "--tnp-color-link-normal": {
+        "color-link-normal": {
           "value": "#2A87F9",
           "type": "color"
         },
-        "--tnp-color-link-hover": {
+        "color-link-hover": {
           "value": "#226CC7",
           "type": "color"
         }
       }
     },
     "Typography Color": {
-      "--tnp-color-text-primary": {
+      "color-text-primary": {
         "value": "#001A2B",
         "type": "color"
       },
-      "--tnp-color-text-secondary": {
+      "color-text-secondary": {
         "value": "#707584",
         "type": "color"
       },
-      "--tnp-color-text-placeholder": {
+      "color-text-placeholder": {
         "value": "#696969",
         "type": "color"
       },
-      "--tnp-color-text-disable": {
+      "color-text-disable": {
         "value": "#9A9A9B",
         "type": "color"
       }
     },
     "Neutral Color": {
-      "--tnp-color-neutral-900": {
+      "color-neutral-900": {
         "value": "#131831",
         "type": "color"
       },
-      "--tnp-color-neutral-300": {
+      "color-neutral-300": {
         "value": "#ECECEC",
         "type": "color"
       },
-      "--tnp-color-neutral-200": {
+      "color-neutral-200": {
         "value": "#F2F2F2",
         "type": "color"
       },
-      "--tnp-color-neutral-100": {
+      "color-neutral-100": {
         "value": "#F7F9FA",
         "type": "color"
       },
-      "--tnp-color-neutral-0": {
+      "color-neutral-0": {
         "value": "#ffffff",
         "type": "color"
       }
     },
     "Icons Color": {
-      " --tnp-color-icon-default": {
+      " color-icon-default": {
         "value": "#9AAAC1",
         "type": "color"
       },
-      "--tnp-color-icon-disable": {
+      "color-icon-disable": {
         "value": "#C0C5CA",
         "type": "color"
       }
     },
-    "line Colors": {
-      "--tnp-color-border": {
-        "value": "#E7E8EA",
+    "background": {
+      "bg-primary": {
+        "value": "$color-icon-default",
         "type": "color"
       }
     }
