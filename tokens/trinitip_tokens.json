@@ -2,7 +2,7 @@
   "global": {
     "Primary": {
       "--tnp-color-primary-800": {
-        "value": "#fff",
+        "value": "#00304F",
         "type": "color",
         "description": "primary color dark"
       },
