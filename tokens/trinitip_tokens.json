@@ -1,10 +1,49 @@
 {
   "global": {
     "Primary Colors": {
-      "--tnp-color-primary-dark-base": {
-        "value": "#005767",
-        "type": "color",
-        "description": "color primary dar base"
+      "Dark": {
+        "--tnp-color-primary-dark-base": {
+          "value": "#005767",
+          "type": "color",
+          "description": "color primary dar base"
+        },
+        "--tnp-color-primary-dark-hover": {
+          "value": "#004652",
+          "type": "color"
+        },
+        "--tnp-color-primary-dark-active": {
+          "value": "#00343E",
+          "type": "color"
+        }
+      },
+      "default": {
+        "--tnp-color-primary-normal-base": {
+          "value": "#007489",
+          "type": "color",
+          "description": "primary color default"
+        },
+        "--tnp-color-primary-normal-hover": {
+          "value": "#00687B",
+          "type": "color"
+        },
+        "--tnp-color-primary-normal-active": {
+          "value": "#005D6E",
+          "type": "color"
+        }
+      },
+      "light": {
+        "--tnp-color-primary-light-base": {
+          "value": "#E6F1F3",
+          "type": "color"
+        },
+        "--tnp-color-primary-light-hover": {
+          "value": "#D9EAED",
+          "type": "color"
+        },
+        "--tnp-color-primary-light-active": {
+          "value": "#B0D4DA",
+          "type": "color"
+        }
       }
     }
   }
