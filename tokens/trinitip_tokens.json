@@ -45,6 +45,30 @@
           "type": "color"
         }
       }
+    },
+    "Semantic Color": {
+      "--tnp-color-success": {
+        "value": "#00BF58",
+        "type": "color"
+      },
+      "--tnp-color-warning": {
+        "value": "#FFDA64",
+        "type": "color"
+      },
+      "--tnp-color-danger": {
+        "value": "#FF3F3F",
+        "type": "color"
+      },
+      "link": {
+        "--tnp-color-link-normal": {
+          "value": "#2A87F9",
+          "type": "color"
+        },
+        "--tnp-color-link-hover": {
+          "value": "#226CC7",
+          "type": "color"
+        }
+      }
     }
   }
 }
