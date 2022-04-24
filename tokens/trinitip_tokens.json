@@ -1,34 +1,10 @@
 {
   "global": {
-    "Primary": {
-      "--tnp-color-primary-800": {
-        "value": "#00304F",
+    "Primary Colors": {
+      "--tnp-color-primary-dark-base": {
+        "value": "#005767",
         "type": "color",
-        "description": "primary color dark"
-      },
-      "--tnp-color-primary-500 (base)": {
-        "value": "#007489",
-        "type": "color",
-        "description": "this is the primary color brand"
-      },
-      "--tnp-color-primary-100": {
-        "value": "#C7F9F1",
-        "type": "color",
-        "description": "primary light"
-      }
-    },
-    "Secondary": {
-      "--tnp-color-secondary-800": {
-        "value": "#901913",
-        "type": "color"
-      },
-      "--tnp-color-secondary-500 (base)": {
-        "value": "#FA6E3C",
-        "type": "color"
-      },
-      "--tnp-color-secondary-100": {
-        "value": "#FEEDD8",
-        "type": "color"
+        "description": "color primary dar base"
       }
     }
   }
