@@ -125,6 +125,19 @@
         "value": "$color-icon-default",
         "type": "color"
       }
+    },
+    "Headline 1": {
+      "value": {
+        "fontFamily": "roboto",
+        "fontWeight": "bold",
+        "lineHeight": "48",
+        "fontSize": "32",
+        "letterSpacing": "0%",
+        "paragraphSpacing": "0",
+        "textDecoration": "none",
+        "textCase": "none"
+      },
+      "type": "typography"
     }
   }
 }
