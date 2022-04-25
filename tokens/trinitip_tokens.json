@@ -138,6 +138,10 @@
         "textCase": "none"
       },
       "type": "typography"
+    },
+    "primary": {
+      "value": "#444444",
+      "type": "color"
     }
   }
 }
